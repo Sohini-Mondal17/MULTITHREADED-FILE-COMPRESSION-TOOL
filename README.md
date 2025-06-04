@@ -28,3 +28,4 @@ Overall, the program effectively demonstrates how RLE compression can be optimiz
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/204d0d56-2940-43ad-ba64-a354ad7b88d6)
